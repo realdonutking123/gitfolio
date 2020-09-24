@@ -2,8 +2,8 @@
   {
     "username": 'realdonutking123',
     "name": 'Alejandro',
-    "userimg": null,
-    "sort": null,
+    "userimg": 'https://avatars2.githubusercontent.com/u/44879242?s=460&v=4',
+    "sort": 'created',
     "order": null,
     "includeFork": true,
     "theme": "dark.css"
